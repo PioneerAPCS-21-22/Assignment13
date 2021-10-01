@@ -30,7 +30,7 @@ public class Stock
     /**
      * getPercChange
      *
-     * change = (prev - new) / prev
+     * change = (new - prev) / prev
      * 
      * @param none
      * @return the percent change from prevPrice to currentPrice (as a decimal)
